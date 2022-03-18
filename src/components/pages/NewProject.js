@@ -3,10 +3,10 @@ import styles from "./NewProject.module.css";
 
 function NewProject() {
   return (
-    <div>
+    <div className={styles.newproject_container}>
       <h1>Criar projeto</h1>
       <p>Crie seu proijetos para depois adicionar serviços</p>
-      <ProjectForm />
+      <ProjectForm btnText="criar projeto" />
     </div>
   );
 }
