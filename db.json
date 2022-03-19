@@ -1,5 +1,28 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "gorrilaz",
+      "budget": "8500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Arctic monkeys",
+      "budget": "7400",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
   "categories": [
     {
       "id": 1,
