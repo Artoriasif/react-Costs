@@ -21,6 +21,28 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "teste7",
+      "budget": "500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Nasus",
+          "cost": "249",
+          "id": "8fc707a2-87ee-4be2-8417-4dbceaddd7f6"
+        },
+        {
+          "name": "nasus",
+          "cost": "251",
+          "id": "366f1f6a-8f64-43c7-bdd6-d3f4da7aa0e1"
+        }
+      ],
+      "id": 4
     }
   ],
   "categories": [
